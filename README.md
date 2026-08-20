@@ -1,11 +1,11 @@
+
+
+<h1 align="center">INFUNV STUDIO</h1>
 <!-- БЛОК С БАННЕРОМ -->
 <div align="center">
   <img  alt="INFUNV STUDIO Banner" width="100%"  src="https://github.com/user-attachments/assets/25ed4510-c126-4e90-8434-bd3c6018a279" />
 </div>
-
-<h1 align="center">INFUNV STUDIO</h1>
 <h3 align="center">Инжиниринговая digital-студия полного цикла 🚀</h3>
-
 <!-- БЕЙДЖИ-ССЫЛКИ ДЛЯ БЫСТРОЙ НАВИГАЦИИ -->
 <div align="center">
   <a href="https://infunv.ru"><img src="https://img.shields.io/badge/Официальный_сайт-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
